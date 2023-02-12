@@ -7,15 +7,15 @@ class Watch:
 
     # Display TV
     def load_tv(self):
-            # print("---------------")
-            print("***************")
+            print("---------------")
+            # print("***************")
             # print("*             *", "\n*             *", "\n*             *", "\n*             *")
             
             print("||           ||","\n||           ||","\n||           ||", )
-            # print("------+--+-----")
-            print("***************")
+            print("------+--+-----")
+            # print("***************")
 
-            # print("---------------")
+            print("---------------")
 
     def which_movie(self):
         title = input(yellow("Movie title: ", "bold")).strip()

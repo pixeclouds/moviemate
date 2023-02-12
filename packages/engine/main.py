@@ -48,8 +48,9 @@ class Engine:
 
     def get_recommendation(self):
         recommendation = self.recommend_movies()
-        print(yellow("\nMovies you might like  to watch..", "bold"))
-        print(*recommendation, sep="\n")
+        recommendation = [self.formtter(movie) for movie in recommendation]
+        print(yellow("\nMovie Recommendations...", "bold"))
+        print(*recommendation, sep="\n\n")
         self.want_to_watch()
 
 

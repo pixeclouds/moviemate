@@ -1,7 +1,6 @@
 from dataclasses import dataclass
 import  json
-import simple_colors as  color
-# from main import Movie
+from simple_colors import *
 
 
 @dataclass
@@ -13,7 +12,10 @@ class Data:
     def load_data(self):
         self.get_movies_from_db()
         self.watched_movies = []
-        
+
+    # format printed movie info
+    def formtter(self, movie):
+        return blue(f"Title: {movie['title']} \nGenres: {movie['genres']} \nRuntime: {movie['runtime']}", "bold")
 
     def get_movies_from_db(self):
         f = open("database/movie_database.json")
@@ -27,6 +29,6 @@ class Data:
                     return movie
                 
         # Handle input error        
-        print(color.red("Invalid Input/Not Found"))
+        print(red("Invalid Input/Not Found", "bold"))
         return False
 
