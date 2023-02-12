@@ -1,0 +1,14 @@
+{
+    "all_movies" : [{"title": "The Matrix", "genres": ["sci-fi", "action"], "runtime": 136},
+              {"title": "Inception", "genres": ["sci-fi", "action"], "runtime": 148},
+              {"title": "The Dark Knight", "genres": ["action", "crime"], "runtime": 152},
+              {"title": "The Dark Lord", "genres": ["action", "crime"], "runtime": 156},
+              {"title": "Interstellar", "genres": ["sci-fi"], "runtime": 169},
+              {"title": "The Prestige", "genres": ["action", "drama"], "runtime": 130},
+              {"title": "The Girl with the Dragon Tattoo","genres": ["crime","drama","mystery","thriller"], "runtime": 158},
+              {"title": "Straight Outta Compton","genres": ["biography","crime","drama","history","music"], "runtime": 167},
+              {"title": "The Wolf of Wall Street","genres": ["biography","comedy","crime","drama"], "runtime": 240},
+              {"title": "Iron Man 3", "genres": ["action","adventure","sci-fi"], "runtime":195},
+              {"title": "The Hateful Eight", "genres": ["crime","mystery","thriller","drama","western"], "runtime": 187}
+            ]
+}

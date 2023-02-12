@@ -1,0 +1,74 @@
+{
+    "The Wolf of Wall Street": {
+        "duration": "240",
+        "genres": "Biography|Comedy|Crime|Drama",
+        "movie_title": "The Wolf of Wall Street"
+    },
+    "Iron Man 3": {
+        "duration": "195",
+        "genres": "Action|Adventure|Sci-Fi",
+        "movie_title": "Iron Man 3"
+    },
+    "The Hateful Eight": {
+        "duration": "187",
+        "genres": "Crime|Drama|Mystery|Thriller|Western",
+        "movie_title": "The Hateful Eight"
+    },
+    "Margaret": {
+        "duration": "186",
+        "genres": "Drama",
+        "movie_title": "Margaret"
+    },
+    "The Hobbit: The Desolation of Smaug": {
+        "duration": "186",
+        "genres": "Adventure|Fantasy",
+        "movie_title": "The Hobbit: The Desolation of Smaug"
+    },
+    "Batman v Superman: Dawn of Justice": {
+        "duration": "183",
+        "genres": "Action|Adventure|Sci-Fi",
+        "movie_title": "Batman v Superman: Dawn of Justice"
+    },
+    "The Hobbit: An Unexpected Journey": {
+        "duration": "50",
+        "genres": "Adventure|Fantasy",
+        "movie_title": "The Hobbit: An Unexpected Journey"
+    },
+    "Restless": {
+        "duration": "180",
+        "genres": "Drama|Romance",
+        "movie_title": "Restless"
+    },
+    "The Avengers": {
+        "duration": "173",
+        "genres": "Action|Adventure|Sci-Fi",
+        "movie_title": "The Avengers"
+    },
+    "Cloud Atlas": {
+        "duration": "172",
+        "genres": "Drama|Sci-Fi",
+        "movie_title": "Cloud Atlas"
+    },
+    "The Girl with the Dragon Tattoo": {
+        "duration": "158",
+        "genres": "Crime|Drama|Mystery|Thriller",
+        "movie_title": "The Girl with the Dragon Tattoo"
+    },
+    "Son of God": {
+        "duration": "170",
+        "genres": "",
+        "movie_title": "Son of God"
+    },
+    "Interstellar": {
+        "duration": "169",
+        "genres": "Adventure|Drama|Sci-Fi",
+        "movie_title": "Interstellar"
+    },
+    "Straight Outta Compton": {
+        "duration": "167",
+        "genres": "Biography|Crime|Drama|History|Music",
+        "movie_title": "Straight Outta Compton"
+    }
+}
+
+
