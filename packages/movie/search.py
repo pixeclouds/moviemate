@@ -9,6 +9,7 @@ class Search:
     def search_for_movie(self):
         query = input(yellow("Search: ", "bold")).strip()
         result = self.run_search(query)
+        print(cyan("\nSearch result..", "bold"))
         print(*result, sep="\n")
         # self.back_to_menu()
         self.want_to_watch()
