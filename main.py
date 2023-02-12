@@ -1,4 +1,4 @@
-from modules.interface.main import Interface
+from packages.interface.main import Interface
 
 
 if __name__ == '__main__':
