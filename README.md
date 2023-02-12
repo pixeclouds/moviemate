@@ -14,7 +14,7 @@ Below is a short explainer on how the platform works.
 
 - Entering w command takes the user to the watch console. Here the user enter the name of the movie he wishes to watch. Note that the name of the movie should match the one on the database or as displayed. The name is NOT case sensitive.
 
-- r runs the recommendation engine which a returns a list of recommended movies. The recommendation is based on the genres and watch time of all watched movies. To give more context, a 50 minutes crime movie a user only watched to the 30 minutes mark will a user watched a 50 minutes crime movie up till the 30 minutes mark and then watched a 50 romance movie only up till 22 minutes mark. The engine will recommend more of crime movies than romance. Pls note that the enigine is more complex than this simplified context.
+- r runs the recommendation engine which a returns a list of recommended movies. The recommendation is based on the genres and watch time of all watched movies. To give more context, a user watched a 50 minutes crime movie up till the 30 minutes mark and then watched a 50 romance movie only up till 22 minutes mark. The engine will recommend more of crime movies than romance. Pls note that the enigine is more complex than this simplified context.
 
 
 ## How to install and run
