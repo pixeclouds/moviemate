@@ -10,7 +10,10 @@ class Search:
         query = input(yellow("Search: ", "bold")).strip()
         result = self.run_search(query)
         print(cyan("\nSearch result..", "bold"))
-        print(*result, sep="\n")
+        if result == []:
+            print(red("Movie not found", "bold"))
+        else:
+            print(*result, sep="\n")
         # self.back_to_menu()
         self.want_to_watch()
 

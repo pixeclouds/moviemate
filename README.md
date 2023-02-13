@@ -6,7 +6,7 @@ MovieMate is an interactive and immersive command-line text based video streamin
 ## User guide
 Below is a short explainer on how the platform works.
 
-- Upon running, the user is prompted with a list of commands to enter to change to the corrresponding menu mode.With **s** for enter search, **W** for watch , **r** for recommendation, **h** for homepage modes respectively.
+- Upon running, the user is prompted with a list of commands to enter to change to the corrresponding menu mode.With **s** for enter search, **w** for watch , **r** for recommendation, **h** for homepage modes respectively.
 
 - Entering **s** command takes the user to the search mode. Here the user is then prompted to enter the search query. Movies that match or are similar to the query are returned in the result.
 
