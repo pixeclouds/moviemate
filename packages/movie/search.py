@@ -12,6 +12,7 @@ class Search:
         print(cyan("\nSearch result..", "bold"))
         if result == []:
             print(red("Movie not found", "bold"))
+            self.back_to_menu()
         else:
             print(*result, sep="\n")
         # self.back_to_menu()
