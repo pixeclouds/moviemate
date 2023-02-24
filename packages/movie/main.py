@@ -5,18 +5,25 @@ from packages.movie.watch import Watch
 from packages.movie.data import Data
 from simple_colors import *
 
+
+'''
+This class inherits the Data, Search and Watch classes. 
+methods and properties can thus be accessed across the three classes.
+....
+Attributes declared in other classes:
+- want_to_watch() attribute is defined in the Interface Class.
+- Formatter() is defined in the Data class
+'''
 @dataclass
 class Movie(Data, Search, Watch):
-    watched_movies: list = None
-    all_movies = list  = None
-
+   
+    # This attribute returns and print a list of randomly selected movies from the database
     def display_movies(self):
-        # returns a return a list of 7 randomly selected movies
         movies = random.sample(self.all_movies, 7)
-        movies = [ self.formtter(movie) for movie in movies]
+        # Formatter attribute is inherited from the Data class
+        movies = [ self.formatter(movie) for movie in movies]
         print(yellow("\nMovies you might like to watch...", "bold"))
 
         print(*movies, sep="\n\n")
 
-        # self.back_to_menu()
         self.want_to_watch()

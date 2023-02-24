@@ -1,14 +1,162 @@
 {
-    "all_movies" : [{"title": "The Matrix", "genres": ["sci-fi", "action"], "runtime": 136},
-              {"title": "Inception", "genres": ["sci-fi", "action"], "runtime": 148},
-              {"title": "The Dark Knight", "genres": ["action", "crime"], "runtime": 152},
-              {"title": "The Dark Lord", "genres": ["action", "crime"], "runtime": 156},
-              {"title": "Interstellar", "genres": ["sci-fi"], "runtime": 169},
-              {"title": "The Prestige", "genres": ["action", "drama"], "runtime": 130},
-              {"title": "The Girl with the Dragon Tattoo","genres": ["crime","drama","mystery","thriller"], "runtime": 158},
-              {"title": "Straight Outta Compton","genres": ["biography","crime","drama","history","music"], "runtime": 167},
-              {"title": "The Wolf of Wall Street","genres": ["biography","comedy","crime","drama"], "runtime": 240},
-              {"title": "Iron Man 3", "genres": ["action","adventure","sci-fi"], "runtime":195},
-              {"title": "The Hateful Eight", "genres": ["crime","mystery","thriller","drama","western"], "runtime": 187}
+    "all_movies" : [
+      {
+        "title": "The Matrix",
+         "genres": ["sci-fi", "action"],
+          "runtime": 136
+      },
+      {
+        "title": "Inception", 
+        "genres": ["sci-fi", "adventure", "action"], 
+        "runtime": 148
+      },
+      {
+        "title": "The Dark Knight", 
+        "genres": ["action", "crime"], 
+        "runtime": 152
+      },
+      {
+        "title": "The Dark Lord", 
+        "genres": ["action", "crime"], 
+        "runtime": 156
+      },
+      {
+        "title": "Interstellar", 
+        "genres": ["sci-fi"], 
+        "runtime": 169
+      },
+      {
+        "title": "The Prestige", 
+        "genres": ["action", "drama"], 
+        "runtime": 130
+      },
+      {
+        "title": "The Girl with the Dragon Tattoo",
+        "genres": ["crime","drama","mystery","thriller"], 
+        "runtime": 158
+      },
+      {
+        "title": "Straight Outta Compton",
+        "genres": ["biography","crime","drama","history","music"], 
+        "runtime": 167
+      },
+      {
+        "title": "The Wolf of Wall Street",
+        "genres": ["biography","comedy","crime","drama"], 
+        "runtime": 240
+      },
+      {
+        "title": "Iron Man 3", 
+        "genres": ["action","adventure","sci-fi"], 
+        "runtime":195},
+      {
+        "title": "The Hateful Eight", 
+        "genres": ["crime","mystery","thriller","drama","western"], 
+        "runtime": 187
+      },
+      {
+        "title": "The Social Network",
+        "genres": ["drama"],
+        "runtime": 120
+      },
+      {
+        "title": "The King's Speech",
+        "genres": ["drama", "history"],
+        "runtime": 118
+      },
+      {
+        "title": "Toy Story 3",
+        "genres": ["animation", "adventure", "comedy"],
+        "runtime": 103
+      },
+      {
+        "title": "Black Swan",
+        "genres": ["drama", "thriller"],
+        "runtime": 108
+      },
+      {
+        "title": "The Fighter",
+        "genres": ["biography", "drama", "sport"],
+        "runtime": 116
+      },
+      {
+        "title": "Inception 2",
+        "genres": ["action", "adventure", "sci-fi"],
+        "runtime": 160
+      },
+      {
+        "title": "The Help",
+        "genres": ["drama"],
+        "runtime": 146
+      },
+      {
+        "title": "The Artist",
+        "genres": ["comedy", "drama", "romance"],
+        "runtime": 100
+      },
+      {
+        "title": "The Descendants",
+        "genres": ["comedy", "drama"],
+        "runtime": 115
+      },
+      {
+        "title": "Skyfall",
+        "genres": ["action", "adventure", "thriller"],
+        "runtime": 143
+      },
+      {
+        "title": "Life of Pi",
+        "genres": ["adventure", "drama", "fantasy"],
+        "runtime": 127
+      },
+      {
+        "title": "The Hunger Games",
+        "genres": ["action", "adventure", "sci-fi"],
+        "runtime": 142
+      },
+      {
+        "title": "Argo",
+        "genres": ["biography", "drama", "thriller"],
+        "runtime": 120
+      },
+      {
+        "title": "Django Unchained",
+        "genres": ["drama", "western"],
+        "runtime": 165
+      },
+      {
+        "title": "Gravity",
+        "genres": ["sci-fi", "thriller"],
+        "runtime": 91
+      },
+      {
+        "title": "12 Years a Slave",
+        "genres": ["biography", "drama", "history"],
+        "runtime": 134
+      },
+      {
+        "title": "Her",
+        "genres": ["drama", "romance", "sci-fi"],
+        "runtime": 126
+      },
+      {
+        "title": "The Grand Budapest Hotel",
+        "genres": ["adventure", "comedy", "drama"],
+        "runtime": 100
+      },
+      {
+        "title": "Birdman",
+        "genres": ["comedy", "drama"],
+        "runtime": 119
+      },
+      {
+        "title": "The Revenant",
+        "genres": ["action", "adventure", "drama"],
+        "runtime": 156
+      }
             ]
 }
+
+
+
+  
